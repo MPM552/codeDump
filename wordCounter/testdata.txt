@@ -1,0 +1,10 @@
+TEST DOCUMENT
+
+This is the certified test document for project number 4 for the data 
+structures and algorithms class taught my Dr. Finkel. It tests the 
+ability of the program to correctly output data of more than just our
+given text file. Since my program runs well with initial set of data,
+I would hope it will do the same with this one. 
+
+This project was a lot of fun and I look forward to learning more
+about hashing.  
