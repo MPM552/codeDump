@@ -1,5 +1,5 @@
 Name: Matthew Mitchell
-Date: Created 1-21-20 Last Edit 1-29-20
+Date: Created 1-21-20 Last Edit 4-4-26
 Assignment: CS315 Programming Assignment: Deck of Dequeues
 Purpose: Create a game with n players who are trying to be the first to
 get rid of all their cards, c. Each game has a maximum of t turns. If a player
@@ -18,3 +18,6 @@ alternate program makes the two-sided die into a seven-sided die. If the die
 rolls a seven the player who has advantage replaces their current deck with
 the starting deck. If it rolls under 4, 0 to 3, the top gets moved and for 
 else the bottom is moved, both as usual in the main program.
+
+Note: This game is not made to be fun more make sense. More an assignment
+with brutally arbitrary conditions.
