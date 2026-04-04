@@ -19,5 +19,5 @@ rolls a seven the player who has advantage replaces their current deck with
 the starting deck. If it rolls under 4, 0 to 3, the top gets moved and for 
 else the bottom is moved, both as usual in the main program.
 
-Note: This game is not made to be fun more make sense. More an assignment
+Note: This game is not made to be fun or make sense. More an assignment
 with brutally arbitrary conditions.
